@@ -9,7 +9,6 @@ local Window = OrionLib:MakeWindow({
 
 local PlayerSec = Window:MakeTab({
     Name = "Dupe",
-    Icon = "rbxassetid://5009915795",
     PremiumOnly = false
 })
 
